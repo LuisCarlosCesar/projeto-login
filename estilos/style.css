@@ -68,10 +68,11 @@ form > div.campo {
     height: 40px;
     border-radius: 5px;
     margin: 5px 0px;
-} > label {
+} 
+div.campo> label {
     display: none;
 }
-div.campo
+
 
 form >input[type=submit]{
     display: block;
